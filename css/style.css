@@ -9,13 +9,13 @@ body {
 }
 
 header, footer {
-  background-color: #d5bdaf;
+  background-color: #583101;
   text-align: left;
   min-width: 500px;
 }
 
 header {
-  font-family: 'source sans pro', sans-serif;
+  font-family: 'oxygen', sans-serif;
   color: #fff;
   min-height: 100vh;
   display: flex;
@@ -48,7 +48,7 @@ h2 {
   font-weight: 600;
   letter-spacing: 0.3px;
   text-align: left;
-  color: #d5bdaf;
+  color: #583101;
   padding: 10px 0px 10px 10px;
 }
 
@@ -164,5 +164,5 @@ footer {
 }
 
 a {
-  color: #ddbea9;
+  color: #333d29;
 }
