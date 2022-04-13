@@ -15,7 +15,7 @@ header, footer {
 }
 
 header {
-  font-family: Nunito;
+  font-family: Nunito, sans-serif;
   color: #fff;
   min-height: 100vh;
   display: flex;
@@ -35,7 +35,7 @@ main {
 }
 
 h1 {
-  font-family: Roboto;
+  font-family: Roboto, sans-serif;
   font-size: calc(1em + 3vw);
   padding-bottom: .67em;
   border-bottom: 1px solid;
@@ -43,7 +43,7 @@ h1 {
 }
 
 h2 {
-  font-family: Roboto;
+  font-family: Roboto, sans-serif;
   font-size: 18px;
   font-weight: 600;
   letter-spacing: 0.3px;
@@ -68,7 +68,7 @@ object-fit: cover;;
 .bio {
   color: #ffffff;
   font-size: 24px;
-  font-family: 'Nunito';
+  font-family: 'Nunito', sans-serif;
 }
 
 .buttonBox {
