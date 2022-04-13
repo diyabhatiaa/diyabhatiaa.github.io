@@ -15,7 +15,7 @@ header, footer {
 }
 
 header {
-  font-family: 'oxygen', sans-serif;
+  font-family: oxygen;
   color: #fff;
   min-height: 100vh;
   display: flex;
