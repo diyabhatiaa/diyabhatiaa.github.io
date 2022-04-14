@@ -15,7 +15,7 @@ header, footer {
 }
 
 header {
-  font-family: 'Oxygen';
+  font-family: 'Space Mono', monospace;
   color: #fff;
   min-height: 100vh;
   display: flex;
@@ -35,7 +35,7 @@ main {
 }
 
 h1 {
-  font-family: 'Oxygen';
+  font-family: 'Space Mono', monospace;
   font-size: calc(1em + 3vw);
   padding-bottom: .67em;
   border-bottom: 1px solid;
@@ -43,7 +43,7 @@ h1 {
 }
 
 h2 {
-  font-family: 'Oxygen';
+  font-family: 'Space Mono', monospace;
   font-size: 18px;
   font-weight: 600;
   letter-spacing: 0.3px;
@@ -68,7 +68,7 @@ object-fit: cover;
 .bio {
   color: #ffffff;
   font-size: 24px;
-  font-family: 'Source Sans Pro';
+  font-family: 'Space Mono', monospace;
 }
 
 .buttonBox {
@@ -119,7 +119,7 @@ object-fit: cover;
 
 .mins {
   display: inline-block;
-  font-family: 'Oxygen';
+  font-family: 'Space Mono', monospace;
   font-size: 14px;
   font-weight: 500;
   letter-spacing: 0.3px;
@@ -130,7 +130,7 @@ object-fit: cover;
 }
 
 .description {
-  font-family: 'Source Sans Pro';
+  font-family: 'Space Mono', monospace;
   font-size: 14px;
   font-weight: 300;
   line-height: 1.29;
