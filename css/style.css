@@ -9,9 +9,9 @@ body {
 }
 
 header, footer {
-  background-color: #583101;
+  background-color: #1d3557;
   text-align: left;
-  min-width: 500px;
+  /* min-width: 500px; */
 }
 
 header {
@@ -48,7 +48,7 @@ h2 {
   font-weight: 600;
   letter-spacing: 0.3px;
   text-align: left;
-  color: #583101;
+  color: #1d3557;
   padding: 10px 0px 10px 10px;
 }
 
@@ -130,7 +130,7 @@ object-fit: cover;
 }
 
 .description {
-  font-family: 'Source Sans Pro' monospace;
+  font-family: 'Source Sans Pro' sans-serif;
   font-size: 14px;
   font-weight: 300;
   line-height: 1.29;
