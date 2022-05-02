@@ -110,7 +110,7 @@ object-fit: cover;
   letter-spacing: 0.1px;
   text-align: left;
   color: #4a4a4a;
-  padding: 10px 0px 10px 10px;
+  padding: 0 20px 20px 20px;  
   }
 
 .container {
